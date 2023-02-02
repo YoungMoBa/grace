@@ -10,8 +10,7 @@ ul{
     margin: 0;
     padding: 20px;
 }
-
-a {
+a{
     text-decoration: none;
     color: black;
 }
@@ -23,6 +22,7 @@ a {
 
 #grid ul{
     padding: 33px;
+    background-color: bisque;
 }
 
 #grid #article{
